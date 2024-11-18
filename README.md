@@ -29,13 +29,7 @@ Summary View
 
 🐛 Known Issues
 The file upload field currently only displays the file name and does not handle file uploads beyond that.
-🚧 Future Improvements
-Add form validation for file types and sizes.
-Enhance the file upload feature to allow previewing files.
-Add a backend API for persistent data storage.
-Implement search and filter functionalities for the summary records.
-🤝 Contributing
-Contributions are welcome! Please follow the standard GitHub flow:
+
 
 Fork the repository.
 Create a new feature branch (git checkout -b feature-name).
@@ -46,4 +40,4 @@ Create a Pull Request.
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 👨‍💻 Author
-Vilok Masuti - LinkedIn | Portfolio
+Vilok Masuti 
